@@ -6,9 +6,10 @@
 E aí Dev Aspirante!
 
 Que bom que você chegou aqui! A próxima etapa consiste em um desafio técnico para validar seus conhecimentos.
+
 Fique tranquilo! 
 
-O desafio visa apenas identificar em qual nível seus conhecimentos estão. Por isso queremos que você dê o seu melhor!
+O desafio é simples e visa apenas identificar em qual nível seus conhecimentos estão. Queremos saber o que você já é capaz de fazer.
 
 
 ## O desafio
