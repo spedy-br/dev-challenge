@@ -14,7 +14,7 @@ O desafio é simples e visa apenas identificar em qual nível seus conhecimentos
 
 ## O desafio
 
-Uma Jornal Impresso necessita de uma solução moderna para exibir seus classificados na internet. 
+Um Jornal Impresso necessita de uma solução moderna para exibir seus classificados na internet. 
 Eles estão em busca de uma aplicação web que exiba os classificados em ordem de cadastro (mais recentes primeiro), contendo o Título, Descrição e Data (Cadastro).
 A solução deve permitir que qualquer usuário crie um novo classificado.
 Na criação de um classificado, o Título e a Descrição são obrigatórios e a data deve ser preenchida pelo back-end com a data atual.
