@@ -3,7 +3,7 @@
 
 # Desafio técnico 
 
-E aí Dev Aspirante!
+E aí Dev!
 
 Que bom que você chegou aqui! A próxima etapa consiste em um desafio técnico para validar seus conhecimentos.
 
