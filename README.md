@@ -22,7 +22,7 @@ Na criação de um classificado, o Título e a Descrição são obrigatórios e 
 ## Como fazer
 
 - Crie uma aplicação web com React para exibir e cadastrar classificados;
-- A solução deve conter um back-end que será responsável gerenciar os classificados (Listar e incluir);
+- A solução deve conter um back-end que será responsável por gerenciar os classificados (Listar e incluir);
 - Use a tecnologia de back-end que você tem mais afinidade. <del>(Na Spedy você usará .NET)</del>;
 - Utilize o banco de dados relacional de sua preferência para armazenar os classificados.
 
@@ -30,7 +30,7 @@ Na criação de um classificado, o Título e a Descrição são obrigatórios e 
 ## Recomendações
 - Capriche na qualidade e organização do código: Esse é o principal ponto que analisamos;
 - Comece o quanto antes: Não deixe para fazer próximo a data de entrega, isso pode te atrapalhar;
-- Visual é importante: Uma aplicação com um bom design te diferencia dos demais. Você pode usar libs de UI (antd/material ui/boostraps/etc.) para melhorar o visual da sua aplicação;
+- Visual é importante: Uma aplicação com um bom design te diferencia dos demais. Você pode usar libs de UI (antd/material ui/bootstrap/etc.) para melhorar o visual da sua aplicação;
 - Faça o uso de React Redux (com Thunk ou Saga) para fazer a gestão do estado global. Isso será um **GRANDE** diferencial no seu desafio;
 - Para facilitar o entendimento criamos o <del>protótipo</del> abaixo:
 <img src="https://user-images.githubusercontent.com/7651244/105104880-7a12bd80-5a89-11eb-9ba0-71a7a621607b.png" height="300"/>
