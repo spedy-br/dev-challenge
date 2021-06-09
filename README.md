@@ -39,6 +39,6 @@ Na criação de um classificado, o Título e a Descrição são obrigatórios e 
 - Após a conclusão tire um print da aplicação rodando com dados cadastrados;
 - Publique o print juntamente com o **código fonte** em um repositório no Github;
 - Envie o link do repositório para o e-mail: danilo@spedy.com.br
-- A data limite para envio será **31/01/2021**.
+- A data limite para envio será **18/06/2021**.
 
 #### Um abraço e boa sorte!
