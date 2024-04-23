@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/7651244/105104842-69624780-5a89-11eb-8137-3dc939a9bad9.png" align="right" height="150"/>
-
-
 # Desafio técnico 
 
 E aí Dev!
